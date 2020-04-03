@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource3">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-C1BABA6;Initial Catalog=CUSTOM_PROMOTYPE_DW</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2b510613-2d04-463a-9de2-e60b0b705a69</DataSourceID>
+</RptDataSource>
